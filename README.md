@@ -6,6 +6,7 @@ To Build a machine learning model that predicts the duration of NYC taxi trip us
 **APPROACHES**
 
 **Step 1:**
+
 To begin the data exploration and cleaning process, we first imported the required libraries, mounted the drive (if applicable), and stored the data in variables for further analysis. Checking for the presence of null values was crucial to avoid potential errors in subsequent steps. By assessing the existence of null values, we ensured that we could proceed with meaningful insights without any data inconsistencies.
 
 ![11](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/1f3ef98e-8325-4e1c-9bb8-72a1e09e80b7)
