@@ -25,15 +25,27 @@ In the subsequent stage of data analysis and visualization, we focused on identi
 
 ![12](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/440612ed-45dc-43a3-bf76-173b9d0c5ef8)
 
+
+
 ![13](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/84ec9b39-a1f2-46f0-ae3c-777b5d7dba9f)
+
+
 
 ![14](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/890048f3-726a-4614-bd80-eda72abe3da4)
 
+
+
 ![15](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/004b68c8-65f1-4889-bfbe-e70932e2245d)
+
+
 
 ![16](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/d1335f3d-9745-4b47-bee4-292d4d25ee49)
 
+
+
 ![17](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/4a00ecc6-7b0b-442f-8cf5-b1311c788ac0)
+
+
 
 ![18](https://github.com/KamalRawalCS/NYC-Taxi-Trip-Time-Prediction-Project/assets/138231554/0bfa2196-2f0b-4e1a-82f2-39dcd1a622b8)
 
